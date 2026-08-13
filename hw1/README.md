@@ -1,8 +1,7 @@
+# ML Course: Attention Mechanism & FashionMNIST Classification
 * Attention: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/25f_ml_trainings_4/homeworks/hw01_classification_and_attention/01_attention.ipynb)
 
 * Classification: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/25f_ml_trainings_4/homeworks/hw01_classification_and_attention/02_hw_fmnist_classification.ipynb)
-
-# ML Course: Attention Mechanism & FashionMNIST Classification
 
 Репозиторий содержит решения двух задач из курса машинного обучения Girafe AI (hw01_classification_and_attention).
 
