@@ -1,7 +1,4 @@
 # ML Course: Attention Mechanism & FashionMNIST Classification
-* Attention: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/25f_ml_trainings_4/homeworks/hw01_classification_and_attention/01_attention.ipynb)
-
-* Classification: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/25f_ml_trainings_4/homeworks/hw01_classification_and_attention/02_hw_fmnist_classification.ipynb)
 
 Репозиторий содержит решения двух задач из курса машинного обучения Girafe AI (hw01_classification_and_attention).
 
@@ -127,7 +124,7 @@ python "ML_Separation_(FashionMNIST_classification).py"
 
 ## Ссылки
 
-- [Attention ноутбук](https://colab.research.google.com/github/girafe-ai/ml-course/blob/25f_ml_trainings_4/homeworks/hw01_classification_and_attention/01_attention.ipynb)
-- [FashionMNIST задача](https://colab.research.google.com/github/girafe-ai/ml-course/blob/25f_ml_trainings_4/homeworks/hw01_classification_and_attention/02_hw_fmnist_classification.ipynb)
+* Attention: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/25f_ml_trainings_4/homeworks/hw01_classification_and_attention/01_attention.ipynb)
+* Classification: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/25f_ml_trainings_4/homeworks/hw01_classification_and_attention/02_hw_fmnist_classification.ipynb)
 - [Курс Girafe AI](https://github.com/girafe-ai/ml-course)
 
